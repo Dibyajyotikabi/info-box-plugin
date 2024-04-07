@@ -14,17 +14,6 @@ The Info Box Plugin allows you to easily add an information box to your WordPres
 
 Your plugin directory structure should look like this:
 
-wp-content/
-├── plugins/
-│   ├── info-box-plugin/
-│   │   ├── css/
-│   │   │   └── style.css
-│   │   ├── info-box-plugin.php
-│   │   ├── README.md
-│   │   └── LICENSE
-│   └── ...
-└── ...
-
 ## Usage
 
 To display an information box, use the following shortcode in your WordPress post or page:
