@@ -12,8 +12,6 @@ The Info Box Plugin allows you to easily add an information box to your WordPres
 2. Upload the `info-box-plugin` directory to the `/wp-content/plugins/` directory of your WordPress installation.
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 
-Your plugin directory structure should look like this:
-
 ## Usage
 
 To display an information box, use the following shortcode in your WordPress post or page:
