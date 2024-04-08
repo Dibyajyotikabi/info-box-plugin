@@ -36,6 +36,6 @@ This plugin is released under the [MIT License](https://opensource.org/licenses/
 
 ## Author
 
-Your Name
+Dibyajyoti Kabi
 - Website: [Dibyajyotikabi.com](https://dibyajyotikabi.com)
 - GitHub: [https://github.com/Dibyajyotikabi](https://github.com/Dibyajyotikabi)
